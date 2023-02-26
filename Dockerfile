@@ -7,6 +7,7 @@ RUN apk -v --update add \
         groff \
         less \
         mailcap \
+        tzdata \
         mysql-client \
         curl \
         && \
